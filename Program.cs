@@ -18,7 +18,8 @@ while (Tama.GetAlive() == true)
     Console.WriteLine("What would you like to do?");
     Console.WriteLine($"1. Teach {Tama.name} a new word");
     Console.WriteLine($"2. Feed {Tama.name}");
-    Console.WriteLine($"3. Talk to {Tama.name}");
+    Console.WriteLine($"3. Have a drink with {Tama.name}");
+    Console.WriteLine($"4. Talk to {Tama.name}");
     Console.WriteLine($"What would you like to do?");
 
     string action = Console.ReadLine();
@@ -33,18 +34,24 @@ while (Tama.GetAlive() == true)
     }
     if (action == "3")
     {
+        Tama.Drink();
+    }
+    if (action == "4")
+    {
         Tama.Talk();
     }
     else
     {
         Console.WriteLine("U did nothing.");
         Console.WriteLine("Your Tama is extra hungry");
-            Tama.Tick();
+        Tama.Tick();
 
     }
+
 
 
 
     Tama.Tick();
 
 }
+    Console.ReadLine();
