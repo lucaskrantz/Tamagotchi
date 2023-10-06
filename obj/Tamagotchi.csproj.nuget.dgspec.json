@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj": {}
+    "C:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj": {
+    "C:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj",
+        "projectUniqueName": "C:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj",
         "projectName": "Tamagotchi",
-        "projectPath": "c:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj",
+        "projectPath": "C:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\Tamagotchi.csproj",
         "packagesPath": "C:\\Users\\lucas.krantz\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\obj\\",
+        "outputPath": "C:\\Users\\lucas.krantz\\Desktop\\Tamagotchi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.krantz\\AppData\\Roaming\\NuGet\\NuGet.Config"
