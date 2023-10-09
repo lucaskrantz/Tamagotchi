@@ -47,11 +47,6 @@ while (Tama.GetAlive() == true)
         Tama.Tick();
 
     }
-
-
-
-
     Tama.Tick();
-
 }
-    Console.ReadLine();
+Console.ReadLine();
